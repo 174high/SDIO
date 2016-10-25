@@ -1,0 +1,5 @@
+---- mmc_sdio_init_card Matches (4 in 1 files) ----
+Sdio.c (mmc\core):static int mmc_sdio_init_card(struct mmc_host *host, u32 ocr,
+Sdio.c (mmc\core):               err = mmc_sdio_init_card(host, host->ocr, host->card,
+Sdio.c (mmc\core):	ret = mmc_sdio_init_card(host, host->ocr, host->card,
+Sdio.c (mmc\core):	err = mmc_sdio_init_card(host, host->ocr, NULL, 0);

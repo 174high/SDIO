@@ -1,0 +1,2 @@
+---- mmc_cid Matches (1 in 1 files) ----
+Sd.c (core):	memset(&card->cid, 0, sizeof(struct mmc_cid));
